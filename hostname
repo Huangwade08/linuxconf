@@ -1,4 +1,6 @@
+#公司檔註解
 192.168.35.101 training.wade.com
 192.168.35.98  linsrv.wade.com
 192.168.35.99  linsrv1.wade.com
 192.168.35.0   wade.com
+# END
